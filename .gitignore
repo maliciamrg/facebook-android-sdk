@@ -56,3 +56,9 @@ facebook/doc/
 facebook/tests/lint.xml
 facebook/tests/assets/config.json
 gradle-app.setting
+
+# ignore_for_eclipse
+/bin/
+.classpath
+.project
+
